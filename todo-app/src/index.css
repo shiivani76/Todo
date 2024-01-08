@@ -1,0 +1,24 @@
+@import url('../node_modules/bootstrap//dist/css/bootstrap.min.css');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Poiret+One&family=Poppins:wght@400;700&family=sulphur+Point:wght@400;700&display=swap');
+
+html,body{
+  height: 100%;
+
+}
+body{
+  font-family: 'poppins',sans-serif;
+  background-color: #dde7f9;
+}
+#root{
+  height: 100px;
+
+}
+.bg-primary, .btn-primary{
+  background-color: #131823 !important;
+}
+
+.title{
+  font-family: 'Poiret One',sans-serif;
+}

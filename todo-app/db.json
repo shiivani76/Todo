@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "name": "vanshika",
+      "email": "s@gmail.com",
+      "password": "698342698",
+      "id": 1
+    },
+    {
+      "name": "gaurav",
+      "email": "gau@gmail.com",
+      "password": "3456",
+      "id": 2
+    },
+    {
+      "name": "karan",
+      "email": "k@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "deepak AB",
+      "email": "deepak@gmail.com",
+      "password": "9843798tirt894",
+      "id": 5
+    },
+    {
+      "name": "shivani",
+      "email": "shivanidogra97432@gmail.com",
+      "password": "54239ierjihieq",
+      "id": 6
+    },
+    {
+      "name": "shivani",
+      "email": "shivanidogra@gmail.com",
+      "password": "7878",
+      "id": 7
+    },
+    {
+      "name": "divya",
+      "email": "divya@gmail.com",
+      "password": "7876178436",
+      "id": 8
+    },
+    {
+      "name": "akash",
+      "email": "akash@gmail.com",
+      "password": "akash",
+      "id": 9
+    },
+    {
+      "name": "shivani",
+      "email": "shivani@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "priya",
+      "email": "pr@gmail.com",
+      "password": "12345678",
+      "id": 11
+    },
+    {
+      "name": "shivani",
+      "email": "shi@gmail.com",
+      "password": "1234",
+      "id": 12
+    }
+  ],
+  "tasks": [
+    {
+      "title": "shivani",
+      "description": "hii",
+      "duedate": "2023-11-23T09:33",
+      "userId": 10,
+      "modifiedOn": "Thu Nov 23 2023 09:33:26 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 2
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 3
+    },
+    {
+      "title": "priya",
+      "description": "hello",
+      "duedate": "2003-02-16T11:26",
+      "userId": 11,
+      "modifiedOn": "Thu Nov 23 2023 11:27:19 GMT+0530 (India Standard Time)",
+      "id": 4
+    },
+    {
+      "title": "shivani",
+      "description": "hiiii",
+      "duedate": "2003-03-01T09:15",
+      "userId": 11,
+      "modifiedOn": "Fri Nov 24 2023 09:15:31 GMT+0530 (India Standard Time)",
+      "id": 5
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 6
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 8
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 9
+    },
+    {
+      "title": "",
+      "description": "",
+      "duedate": "",
+      "id": 10
+    },
+    {
+      "title": "shivani",
+      "description": "hii",
+      "duedate": "2023-03-28T09:21",
+      "userId": 8,
+      "modifiedOn": "Tue Nov 28 2023 09:21:55 GMT+0530 (India Standard Time)",
+      "id": 11
+    }
+  ]
+}
